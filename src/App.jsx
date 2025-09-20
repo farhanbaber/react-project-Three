@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Nav from './components/nav.jsx'
+import Nav from './components/Nav.jsx'
 import Hero from './components/Hero.jsx'  
 import image1 from './assets/images/image one.jpeg'
 import image3 from './assets/images/image three.jpeg'
